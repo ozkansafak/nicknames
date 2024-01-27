@@ -1,6 +1,8 @@
 **/.DS_Store
 *.swp
 **/nohup.out
-**/*.json
 **/.ipynb_checkpoints/
+**/*.pkl
+**/*.csv
+**/*.json
 
